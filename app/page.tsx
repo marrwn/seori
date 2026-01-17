@@ -395,11 +395,11 @@ export default function SeoriBirthdayPage() {
           className={`h-screen w-full bg-[#fae6e7] flex flex-col items-center justify-center transition-all duration-1000 ${getTransitionClasses()}`}
         >
           <div className="text-center space-y-8">
-            <div className="slide-up-1 text-4xl md:text-6xl font-bold text-pink-600">Anyways</div>
-            <div className="slide-up-2 text-3xl md:text-5xl text-pink-500">I bought extended plan for your site</div>
-            <div className="slide-up-3 text-4xl md:text-6xl text-pink-600">i think this going to work</div>
-            <div className="slide-up-4 text-3xl md:text-5xl text-pink-500">for 2 years</div>
-            <div className="slide-up-5 text-4xl md:text-6xl text-pink-600">:3</div>
+            <div className="slide-up-1 text-4xl md:text-6xl font-bold text-pink-600">Man I give up</div>
+            <div className="slide-up-2 text-3xl md:text-5xl text-pink-500">I ain't trying no more</div>
+            <div className="slide-up-3 text-4xl md:text-6xl text-pink-600">i thought we can be friends</div>
+            <div className="slide-up-4 text-3xl md:text-5xl text-pink-500">but who am i to believe to think</div>
+            <div className="slide-up-5 text-4xl md:text-6xl text-pink-600">this is going to work</div>
           </div>
         </div>
       )}
@@ -410,18 +410,18 @@ export default function SeoriBirthdayPage() {
           className={`h-screen w-full bg-[#fae6e7] flex flex-col items-center justify-center transition-all duration-1000 ${getTransitionClasses()}`}
         >
           <div className="text-center space-y-8">
-            <div className="slide-up-1 text-4xl md:text-6xl font-bold text-pink-600">by the way</div>
+            <div className="slide-up-1 text-4xl md:text-6xl font-bold text-pink-600">yeah well here i am </div>
             <div className="slide-up-2 text-3xl md:text-5xl text-pink-500">
-              I would be happy if you want custom domain for this
+              editing the website for my self
             </div>
             <div className="slide-up-3 text-4xl md:text-6xl text-pink-600">
-              although might cost me some money
+              knowing no one will see this
             </div>
             <div className="slide-up-4 text-3xl md:text-5xl text-pink-500 text-center">
-              but Im okay with thst
+              some bullshit introvert who can't communicate
             </div>
             <div className="slide-up-5 text-4xl md:text-6xl text-pink-600 text-center">
-              yeah just dm me..
+              i need therapist....
             </div>
           </div>
         </div>
