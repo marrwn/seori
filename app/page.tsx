@@ -396,7 +396,7 @@ export default function SeoriBirthdayPage() {
         >
           <div className="text-center space-y-8">
             <div className="slide-up-1 text-4xl md:text-6xl font-bold text-pink-600">Man I give up</div>
-            <div className="slide-up-2 text-3xl md:text-5xl text-pink-500">I ain't trying no more</div>
+            <div className="slide-up-2 text-3xl md:text-5xl text-pink-500">I aint trying no more</div>
             <div className="slide-up-3 text-4xl md:text-6xl text-pink-600">i thought we can be friends</div>
             <div className="slide-up-4 text-3xl md:text-5xl text-pink-500">but who am i to believe to think</div>
             <div className="slide-up-5 text-4xl md:text-6xl text-pink-600">this is going to work</div>
@@ -418,7 +418,7 @@ export default function SeoriBirthdayPage() {
               knowing no one will see this
             </div>
             <div className="slide-up-4 text-3xl md:text-5xl text-pink-500 text-center">
-              some bullshit introvert who can't communicate
+              some bullshit introvert who cant communicate
             </div>
             <div className="slide-up-5 text-4xl md:text-6xl text-pink-600 text-center">
               i need therapist....
